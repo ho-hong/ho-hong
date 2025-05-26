@@ -2,7 +2,7 @@
  🌱 I’m currently learning ... 
  
 <!--
-**newCoder-2024/newCoder-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ho-hong/ho-hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=newCoder-2024&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ho-hong&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
